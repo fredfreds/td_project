@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d843229db2935d448b20ca07c6b8c90, type: 3}
+  m_Name: ComplexTower
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 8284686853516454222, guid: d25db63e9cb66ab49bac0dd78a2d69b3, type: 3}
+  Bullet: {fileID: 4788984901949037206, guid: fcdb5af1db67164468dbca468ff510c6, type: 3}
+  FireCooldown: 0.5
+  BulletSpeed: 30
+  Damage: 2
+  Range: 15
+  Radius: 10
+  Cost: 5
+  Offset: {x: 0, y: 0, z: 0}

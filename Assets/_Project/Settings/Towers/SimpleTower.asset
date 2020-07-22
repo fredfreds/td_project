@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d843229db2935d448b20ca07c6b8c90, type: 3}
+  m_Name: SimpleTower
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 6573324449049045480, guid: 1044ca2922b4e1b4488f05923a016735, type: 3}
+  Bullet: {fileID: -5534875976873411720, guid: 7871e83546edd64469dfa4de55b858d5, type: 3}
+  FireCooldown: 1
+  BulletSpeed: 20
+  Damage: 1
+  Range: 10
+  Radius: 5
+  Cost: 1
+  Offset: {x: 0, y: 0, z: 0}
